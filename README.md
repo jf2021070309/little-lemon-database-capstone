@@ -97,11 +97,3 @@ python booking_system.py
 - [x] AddBooking() procedimiento implementado
 - [x] CancelBooking() procedimiento implementado
 
-## Autor
-
-[Tu Nombre]
-Database Engineer Capstone - Meta/Coursera
-
-## Fecha de Entrega
-
-23 de Julio, 2025
